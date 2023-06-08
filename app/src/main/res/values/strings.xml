@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">newsshowapp</string>
+    <string name="apiKey">dcc56919e8d74b29af0933b599806d49</string>
+    <string name="widget_description">top 5 news on topic</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="widget_preview_heading">heading of the news</string>
+    <string name="widget_preview_subheading">sub heading for news</string>
+    <string name="widget_headline">This is headLine</string>
+    <string name="widget_sub_heading">this is small text lol</string>
+</resources>
