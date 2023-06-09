@@ -25,3 +25,6 @@ Saved News Articles page
 
 <img src="https://github.com/user0234/newsshowkotlinapp/assets/129966531/a096d08c-ae24-4816-8fa4-c860162a9bfa" width="250" height="527" style="padding: 10px,40px,10px,10px" >
 
+apk download link
+
+https://drive.google.com/file/d/1vxA2-E_8mNQFXYdfCEdqdAWhpGDa0acD/view?usp=sharing
